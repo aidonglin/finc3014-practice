@@ -5,6 +5,7 @@
 ## Markets I want to trade this semester
 - US large-cap equities
 - an instrument you have never traded
+- Nasdap
 
 ## One market story that hooked me
 <Two sentences in your own words -- put the **key number** in bold.>
